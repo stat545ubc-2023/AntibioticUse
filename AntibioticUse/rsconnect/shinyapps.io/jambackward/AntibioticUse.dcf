@@ -1,0 +1,12 @@
+name: AntibioticUse
+title: AntibioticUse
+username: jambackward
+account: jambackward
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10614018
+bundleId: 7962888
+url: https://jambackward.shinyapps.io/AntibioticUse/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
