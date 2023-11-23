@@ -1,7 +1,7 @@
 # Antibiotic Usage in Livestock
 
 ## Overview
-This interactive tool allows users to explore data on antibiotic usage across various countries over multiple years. This app provides visual insights through interactive tables and graphs.
+This interactive tool allows users to explore data on antibiotic usage across various countries over multiple years. This app provides visual insights through interactive tables and graphs. In an era where antibiotic resistance is a growing concern, understanding trends and patterns in antibiotic use in animal agriculture is critical. 
 
 ## Features
 - **Interactive Table**: Explore detailed data on antibiotic usage by country and year.
