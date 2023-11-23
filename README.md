@@ -10,12 +10,12 @@ This interactive tool allows users to explore data on antibiotic usage across va
 - **Data Download**: Download the filtered dataset for offline analysis.
 
 ## Data Source
-The data used in this app is sourced from the open datasets provided by the [Our World in Data](https://ourworldindata.org/antibiotic-use-in-livestock) project, specifically the dataset on antibiotic usage in livestock by the European Commission & Van Boeckel et al.
+The data used in this app is sourced from the open datasets provided by the [Our World in Data](https://github.com/owid/owid-datasets/tree/master/datasets/Antibiotic%20use%20in%20livestock%20-%20European%20Commission%20%26%20Van%20Boeckel%20et%20al.) project, specifically the dataset on antibiotic usage in livestock by the European Commission & Van Boeckel et al.
 
 The data is filtered to exclude countries with only a single year of data to enable analysis of trends over time. I looked at countries with multiple data points across years to allow for a more accurate assessment of changes in antibiotic usage.
 
 ## Shiny App Link
-https://jambackward.shinyapps.io/AntibioticUse/
+[Shiny App: AntibioticUse](https://jambackward.shinyapps.io/AntibioticUse/)
 
 ## How to Use
 - Select one or more countries from the dropdown menu to display the corresponding data.
